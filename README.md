@@ -11,6 +11,7 @@
   - Copy the link in email sent to you and paste in to the browser`s navigation bar.(http://www.omdbapi.com/apikey={apikey}&i={IMDBid})
   - You will redirected to a page with information of a random movie in JSON form.
   - To the information for "Thor: Ragnarok", change the "i" parameter (the IMDB id number) to "tt3501632" in the navigation bar.
+  - Go to http://www.omdbapi.com/#usage to familiarize yourself with the Api Usage.
   - The link will then show all the information regarded "Thor: Ragnarok" including.
 
 
