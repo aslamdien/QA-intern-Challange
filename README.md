@@ -28,5 +28,5 @@
 
 4. The best time for a software quality engineer to get involved in a project would when the product has being tested before the it ready to be deployed and when the software is going through maintenance.
 
-5. -For Manual testing it should be about 20% mostly at end of buliding the software
-   -For Automated testing it be aleast 80% as to keep track of the coding and inorder to avoid running into bugs less while creating the code.
+5. - For Manual testing it should be about 20% mostly at end of buliding the software
+   - For Automated testing it be aleast 80% as to keep track of the coding and inorder to avoid running into bugs less while creating the code.
