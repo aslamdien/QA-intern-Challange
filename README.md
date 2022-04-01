@@ -17,9 +17,9 @@
 ## Theoretical Exercise answers:
 
 1. 
--Test case: Are a set of actions or instructions for a tester or QA professional to perform inorder to approve a specific aspect of a product or application functionality.
+   - Test case: Are a set of actions or instructions for a tester or QA professional to perform inorder to approve a specific aspect of a product or application functionality.
 
--User story: To give a decription of functionality from the perspective the user inorder to find ways of make the software or product more user friendly.
+   - User story: To give a decription of functionality from the perspective the user inorder to find ways of make the software or product more user friendly.
 
 2. The best time for automated testing should be when the functionality has been build so in order look over and locate the bugs in the code and make the corrections before merging it into the repository.
 
